@@ -1,5 +1,9 @@
 # ADR-002 — Design system do frontend
 
+> A direcao visual vigente esta documentada em [`../layout.md`](../layout.md):
+> design system Nocturne, com interface escura e acento teal. Este ADR
+> registra a decisao anterior e nao deve ser usado para derivar novos tokens.
+
 - Status: aceito
 - Data: 2026-10-01
 - Decisao: adotar o design system pink contemporary definido em `docs/layout.md` como fonte visual da SPA.
