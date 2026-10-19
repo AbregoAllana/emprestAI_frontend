@@ -30,7 +30,8 @@ cp .env.example .env   # preencha os valores (ver .env.example)
 npm run dev
 ```
 
-> A API precisa estar rodando (repo `emprestAI`) ou o app não terá dados.
+> O frontend exige a API rodando (repo `emprestAI`) e uma sessão Supabase;
+> não há fallback de dados mockados.
 
 ## Deploy na Vercel
 
